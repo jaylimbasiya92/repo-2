@@ -6,3 +6,4 @@
 //new commit 
 //github commit in specific formate
 //$title : bug fix in github integratoin $description : we have optimize the functionality and bug fixed and improvment $label: bug fixed 
+//$title : bug fix in github integratoin $description : we have optimize the functionality and bug fixed and improvment $label: bug fixed 
