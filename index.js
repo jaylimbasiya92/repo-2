@@ -16,5 +16,5 @@ const [description, label] = descAndLabel.split("$label:");
 console.log(title.trim());
 console.log(description.trim());
 console.log(label.trim());    
-//new commit        
+//new commit         
 //label founds        
